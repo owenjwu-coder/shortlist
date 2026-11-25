@@ -1,0 +1,836 @@
+{
+  "meta": {
+    "cycle": "2026–27 application cycle (fall 2027 entry)",
+    "rankings": "U.S. News 2027 Best National Universities (top 40, ties included) and Best National Liberal Arts Colleges (top 10, service academies left out). Released Sept 22, 2026.",
+    "statsSource": "Applicants, admit rate and middle-50% SAT/ACT of enrolled students: Compass Prep college profiles table (updated July 1, 2026), which reports each school's most recent Common Data Set or admissions release. Admitted count is applicants × admit rate, rounded.",
+    "testSource": "Testing policies: Compass Prep college profiles table (updated July 1, 2026).",
+    "deadlineNote": "Dates follow each school's usual calendar for fall 2027 entry. Confirm on the school's admissions site before you plan around them.",
+    "essayNote": "Supplement prompts are short summaries of the 2025–26 versions. Schools can revise prompts each August, so read the official wording on the school's site or in your Common App account before drafting."
+  },
+  "schools": [
+    {
+      "id": "mit", "name": "Massachusetts Institute of Technology", "short": "MIT",
+      "city": "Cambridge", "state": "MA", "type": "Private", "cat": "National University", "rank": 1,
+      "site": "https://mitadmissions.org/apply/", "ug": 4600,
+      "apps": ["MIT application"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Two teacher recs (one math/science, one humanities/social science) and a counselor rec.",
+      "interview": "Interview offered by an Educational Counselor when available; strongly encouraged.",
+      "essays": [
+        ["The field of study that appeals to you most right now, and why it appeals to you at MIT.", 100],
+        ["Something you do simply for the pleasure of it.", 200],
+        ["How the world you come from (opportunities, experiences, challenges) has shaped your dreams.", 200],
+        ["A time you collaborated with others or contributed to a shared goal.", 200],
+        ["A significant challenge you faced, or something that didn't go as planned, and how you handled it.", 200]
+      ],
+      "notes": "Uses its own application portal, not the Common App. Optional maker portfolio and research or arts supplements."
+    },
+    {
+      "id": "princeton", "name": "Princeton University", "short": "Princeton",
+      "city": "Princeton", "state": "NJ", "type": "Private", "cat": "National University", "rank": 2,
+      "site": "https://admission.princeton.edu/apply", "ug": 5700,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["SCEA", "2026-11-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "check", "n": "Compass Prep lists Princeton as reinstating required SAT/ACT, with its note saying the requirement begins with fall 2028 entry. Confirm with Princeton for fall 2027."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["Academic areas that pique your curiosity and how Princeton's programs suit them (A.B.), or why engineering at Princeton (B.S.E.).", 250],
+        ["How your story intersects (or will intersect) with Princeton's commitment to service and civic engagement.", 250],
+        ["How your lived experience will shape the conversations you have on campus; what classmates will learn from you.", 250],
+        ["Short answers: a new skill you'd like to learn in college; what brings you joy; the song that's the soundtrack of your life right now.", 50]
+      ],
+      "notes": "Requires a graded written paper (1–2 pages) from an academic course, preferably English or history."
+    },
+    {
+      "id": "harvard", "name": "Harvard University", "short": "Harvard",
+      "city": "Cambridge", "state": "MA", "type": "Private", "cat": "National University", "rank": 3,
+      "site": "https://college.harvard.edu/admissions/apply", "ug": 7100,
+      "apps": ["Common App"],
+      "plans": [["REA", "2026-11-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "required", "n": "SAT or ACT required. AP/IB and similar exams accepted only in exceptional cases when the SAT/ACT is not accessible."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered to many applicants.",
+      "essays": [
+        ["A time you strongly disagreed with someone about an idea or issue: how you engaged and what you learned.", 150],
+        ["An intellectual experience that was important to you.", 150],
+        ["Extracurriculars, work, travel or family responsibilities that have shaped who you are.", 150],
+        ["How you hope to use your Harvard education in the future.", 150],
+        ["The top three things your future roommates might like to know about you.", 150]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "yale", "name": "Yale University", "short": "Yale",
+      "city": "New Haven", "state": "CT", "type": "Private", "cat": "National University", "rank": 4,
+      "site": "https://admissions.yale.edu/apply", "ug": 6800,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["SCEA", "2026-11-01"], ["RD", "2027-01-02"]],
+      "test": {"p": "required", "n": "Test-flexible requirement: send SAT, ACT, AP or IB scores."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered when available; not required.",
+      "essays": [
+        ["What is it about Yale that has led you to apply?", 125],
+        ["A topic or idea related to the academic areas you selected that excites you, and why.", 200],
+        ["Three short takes (about 35 words each), such as what inspires you or a course you'd love to teach.", 35],
+        ["One of several prompts: a conversation with someone holding an opposing view, a community you belong to, or a personal experience you'd bring to Yale.", 400]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "caltech", "name": "California Institute of Technology", "short": "Caltech",
+      "city": "Pasadena", "state": "CA", "type": "Private", "cat": "National University", "rank": 5,
+      "site": "https://www.admissions.caltech.edu/apply", "ug": 990,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-03"]],
+      "test": {"p": "required", "n": "SAT or ACT required; also report all available AP/IB scores."},
+      "recs": "Two teacher recs (one math, one science) and a counselor rec.",
+      "interview": "No interviews.",
+      "essays": [
+        ["Your intended areas of study and why they interest you.", 200],
+        ["A STEM-related experience or idea that sparked your curiosity.", 200],
+        ["How you'd contribute to the Caltech community and what you'd seek from it.", 200],
+        ["A short response about creativity, making, or what you do for fun.", 200]
+      ],
+      "notes": "No middle-50% test range on file: Caltech did not consider scores for recent entering classes."
+    },
+    {
+      "id": "stanford", "name": "Stanford University", "short": "Stanford",
+      "city": "Stanford", "state": "CA", "type": "Private", "cat": "National University", "rank": 5,
+      "site": "https://admission.stanford.edu/apply/", "ug": 7800,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["REA", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["Short questions (50 words each): the most significant challenge society faces; how you spent your last two summers; a historical moment you wish you'd witnessed; what you're looking forward to at Stanford.", 50],
+        ["Intellectual vitality: an idea or experience that made you genuinely excited about learning.", 250],
+        ["A letter to your future roommate that reveals something about you.", 250],
+        ["Something that is meaningful to you, and why.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "penn", "name": "University of Pennsylvania", "short": "Penn",
+      "city": "Philadelphia", "state": "PA", "type": "Private", "cat": "National University", "rank": 7,
+      "site": "https://admissions.upenn.edu/how-to-apply", "ug": 10000,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["A thank-you note to someone you haven't yet thanked.", 200],
+        ["How you will explore community at Penn and what you'll contribute.", 200],
+        ["Undergraduate school-specific essay (College, Wharton, Engineering or Nursing): why that school fits your interests.", 200]
+      ],
+      "notes": "Coordinated dual-degree programs have additional essays and earlier internal timelines."
+    },
+    {
+      "id": "duke", "name": "Duke University", "short": "Duke",
+      "city": "Durham", "state": "NC", "type": "Private", "cat": "National University", "rank": 8,
+      "site": "https://admissions.duke.edu/apply/", "ug": 6600,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-02"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through the 2026–27 cycle."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["Why Duke: what about Duke attracts you and how you'd engage with it.", 250],
+        ["Optional, up to two of several: a perspective or belief, your identity or community, something you've been obsessed with, a time you changed your mind, and others.", 250]
+      ],
+      "notes": "ACT Science or a science AP/IB score is recommended for applicants to Pratt (engineering)."
+    },
+    {
+      "id": "jhu", "name": "Johns Hopkins University", "short": "Johns Hopkins",
+      "city": "Baltimore", "state": "MD", "type": "Private", "cat": "National University", "rank": 9,
+      "site": "https://apply.jhu.edu/", "ug": 6000,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-02"], ["RD", "2027-01-02"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interview.",
+      "essays": [
+        ["An aspect of your identity or background and how it will shape your contributions to the Hopkins community.", 300]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "northwestern", "name": "Northwestern University", "short": "Northwestern",
+      "city": "Evanston", "state": "IL", "type": "Private", "cat": "National University", "rank": 9,
+      "site": "https://admissions.northwestern.edu/apply/", "ug": 8800,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-02"]],
+      "test": {"p": "optional", "n": "Test-optional, no announced end date."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["Why Northwestern: how you'll engage with the academic and community life here.", 300],
+        ["Optional short responses on topics such as collaboration, your background, or what you'd add to campus.", 150]
+      ],
+      "notes": "Music (Bienen) and some dual-degree programs require auditions or extra essays."
+    },
+    {
+      "id": "uchicago", "name": "University of Chicago", "short": "UChicago",
+      "city": "Chicago", "state": "IL", "type": "Private", "cat": "National University", "rank": 9,
+      "site": "https://collegeadmissions.uchicago.edu/apply", "ug": 7500,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["EA", "2026-11-01"], ["ED II", "2027-01-05"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No interviews; an optional two-minute video introduction is accepted.",
+      "essays": [
+        ["How does the University of Chicago, as you know it now, satisfy your desire for a particular kind of learning, community and future?", 500],
+        ["Extended essay: pick one of UChicago's famously unusual prompts or write your own.", 650]
+      ],
+      "notes": "No strict word limits; the numbers shown are typical lengths."
+    },
+    {
+      "id": "columbia", "name": "Columbia University", "short": "Columbia",
+      "city": "New York", "state": "NY", "type": "Private", "cat": "National University", "rank": 12,
+      "site": "https://undergrad.admissions.columbia.edu/apply", "ug": 8900,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "check", "n": "Compass Prep lists Columbia as returning to required SAT/ACT, with its note saying the requirement starts with fall 2028 entry. Confirm with Columbia for fall 2027."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["A time you faced an obstacle and how you persevered.", 150],
+        ["How you've contributed to or been shaped by a community.", 150],
+        ["What you value about Columbia and why you want to attend.", 150],
+        ["Why the areas of study you selected interest you.", 150],
+        ["Lists: books, readings, or media that shaped your thinking.", 100]
+      ],
+      "notes": "Applicants choose Columbia College or Columbia Engineering at the time of application."
+    },
+    {
+      "id": "dartmouth", "name": "Dartmouth College", "short": "Dartmouth",
+      "city": "Hanover", "state": "NH", "type": "Private", "cat": "National University", "rank": 12,
+      "site": "https://admissions.dartmouth.edu/apply", "ug": 4500,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-02"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Two teacher recs, a counselor rec, and an optional peer rec.",
+      "interview": "Alumni interview offered when available.",
+      "essays": [
+        ["Why Dartmouth: what aspects of the college's academics or community appeal to you.", 100],
+        ["One of several prompts about your background, a community you belong to, or how you've grown.", 250]
+      ],
+      "notes": "Dartmouth accepts a peer recommendation from a friend or classmate."
+    },
+    {
+      "id": "cmu", "name": "Carnegie Mellon University", "short": "Carnegie Mellon",
+      "city": "Pittsburgh", "state": "PA", "type": "Private", "cat": "National University", "rank": 14,
+      "site": "https://www.cmu.edu/admission/", "ug": 7500,
+      "apps": ["Common App", "Coalition"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-03"], ["RD", "2027-01-03"]],
+      "test": {"p": "required", "n": "Required. School of Computer Science accepts only SAT/ACT; other colleges also accept AP, IB, A-Level or French Bac in place of SAT/ACT. College of Fine Arts is test-optional."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews for most programs.",
+      "essays": [
+        ["Why the major or program you chose, and what draws you to it.", 300],
+        ["What you hope to gain from college beyond a degree or career.", 300],
+        ["Something about yourself you want to emphasize that isn't elsewhere in your application.", 300]
+      ],
+      "notes": "Drama, music, art and architecture require portfolios or auditions with earlier deadlines."
+    },
+    {
+      "id": "cornell", "name": "Cornell University", "short": "Cornell",
+      "city": "Ithaca", "state": "NY", "type": "Private", "cat": "National University", "rank": 14,
+      "site": "https://admissions.cornell.edu/apply", "ug": 16000,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-02"]],
+      "test": {"p": "required", "n": "SAT or ACT required for all undergraduate colleges."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Interviews only for some programs, such as Architecture and Hotel Administration.",
+      "essays": [
+        ["How you've been shaped by one of the communities you belong to.", 350],
+        ["College-specific essay for the undergraduate college you apply to (CAS, Engineering, Dyson, etc.).", 650]
+      ],
+      "notes": "Each of Cornell's undergraduate colleges sets its own essay and may ask for more."
+    },
+    {
+      "id": "brown", "name": "Brown University", "short": "Brown",
+      "city": "Providence", "state": "RI", "type": "Private", "cat": "National University", "rank": 16,
+      "site": "https://admission.brown.edu/apply", "ug": 7600,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Optional two-minute video introduction; alumni interviews when available.",
+      "essays": [
+        ["Brown's Open Curriculum: the academic interests you'd pursue and why.", 250],
+        ["What brings you joy?", 200],
+        ["How you've engaged with or been shaped by a community or background.", 200],
+        ["Short answers (50 words each): such as a favorite book, a course you'd create, or a place you love.", 50]
+      ],
+      "notes": "PLME (8-year medical program) has extra essays."
+    },
+    {
+      "id": "rice", "name": "Rice University", "short": "Rice",
+      "city": "Houston", "state": "TX", "type": "Private", "cat": "National University", "rank": 16,
+      "site": "https://admission.rice.edu/apply", "ug": 4800,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-04"], ["RD", "2027-01-04"]],
+      "test": {"p": "optional", "n": "Test-optional; Rice recommends but does not require scores."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Optional interview with alumni or students.",
+      "essays": [
+        ["Why your intended area of study interests you.", 150],
+        ["Why Rice: what draws you to the university.", 150],
+        ["One of several prompts about your perspective and how it would contribute to Rice's residential colleges.", 500],
+        ["The Rice Box: share an image that appeals to you and explain it.", 0]
+      ],
+      "notes": "Architecture and music applicants submit portfolios or auditions."
+    },
+    {
+      "id": "vanderbilt", "name": "Vanderbilt University", "short": "Vanderbilt",
+      "city": "Nashville", "state": "TN", "type": "Private", "cat": "National University", "rank": 16,
+      "site": "https://admissions.vanderbilt.edu/apply/", "ug": 7200,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Test-optional for fall 2027 and 2028 entry; Vanderbilt plans to require scores starting with fall 2029 entry."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["One of two prompts: an extracurricular or work experience that shaped you, or how your background will help you engage in civil dialogue at Vanderbilt.", 250]
+      ],
+      "notes": "Blair School of Music requires an audition."
+    },
+    {
+      "id": "washu", "name": "Washington University in St. Louis", "short": "WashU",
+      "city": "St. Louis", "state": "MO", "type": "Private", "cat": "National University", "rank": 16,
+      "site": "https://admissions.wustl.edu/apply/", "ug": 8200,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-02"], ["RD", "2027-01-02"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["Why WashU and your chosen academic division: what you hope to explore.", 250],
+        ["Optional: how your background and communities shaped you.", 200]
+      ],
+      "notes": "No application fee."
+    },
+    {
+      "id": "berkeley", "name": "University of California, Berkeley", "short": "UC Berkeley",
+      "city": "Berkeley", "state": "CA", "type": "Public", "cat": "National University", "rank": 20,
+      "site": "https://admissions.berkeley.edu/apply-to-berkeley/", "ug": 33000,
+      "apps": ["UC Application"],
+      "plans": [["UC", "2026-11-30"]],
+      "test": {"p": "blind", "n": "Test-free: SAT/ACT scores are not considered for admission or scholarships at any UC campus."},
+      "recs": "No recs required. Some applicants may be invited to send a letter of recommendation.",
+      "interview": "No interviews.",
+      "essays": [
+        ["UC Personal Insight Questions: answer 4 of 8 (leadership, creativity, talent, educational opportunity or barrier, challenge, academic subject, community, what sets you apart).", 350]
+      ],
+      "notes": "One UC Application covers all nine UC campuses. Filing period runs Oct 1 to Nov 30."
+    },
+    {
+      "id": "ucla", "name": "University of California, Los Angeles", "short": "UCLA",
+      "city": "Los Angeles", "state": "CA", "type": "Public", "cat": "National University", "rank": 20,
+      "site": "https://admission.ucla.edu/apply", "ug": 33000,
+      "apps": ["UC Application"],
+      "plans": [["UC", "2026-11-30"]],
+      "test": {"p": "blind", "n": "Test-free: SAT/ACT scores are not considered for admission or scholarships at any UC campus."},
+      "recs": "No recs required.",
+      "interview": "No interviews.",
+      "essays": [
+        ["UC Personal Insight Questions: answer 4 of 8 (leadership, creativity, talent, educational opportunity or barrier, challenge, academic subject, community, what sets you apart).", 350]
+      ],
+      "notes": "Arts and architecture majors require supplemental applications with their own deadlines."
+    },
+    {
+      "id": "notredame", "name": "University of Notre Dame", "short": "Notre Dame",
+      "city": "Notre Dame", "state": "IN", "type": "Private", "cat": "National University", "rank": 20,
+      "site": "https://admissions.nd.edu/apply/", "ug": 9000,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["REA", "2026-11-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "check", "n": "Compass Prep says Notre Dame's temporary test-optional policy ends with fall 2028 entry, so fall 2027 applicants are likely still test-optional. Confirm with Notre Dame."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["What excites you about Notre Dame that makes it stand out from other institutions?", 200],
+        ["Two of several short prompts (about 50–100 words), on topics such as faith, service, community, or what you'd add to campus.", 100]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "emory", "name": "Emory University", "short": "Emory",
+      "city": "Atlanta", "state": "GA", "type": "Private", "cat": "National University", "rank": 23,
+      "site": "https://apply.emory.edu/apply/", "ug": 7500,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through the 2026–27 cycle."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["What academic areas you're interested in exploring at Emory and why.", 200],
+        ["One of several prompts about your perspective, community or growth.", 150]
+      ],
+      "notes": "Apply to Emory College (Atlanta), Oxford College, or both."
+    },
+    {
+      "id": "georgetown", "name": "Georgetown University", "short": "Georgetown",
+      "city": "Washington", "state": "DC", "type": "Private", "cat": "National University", "rank": 23,
+      "site": "https://uadmissions.georgetown.edu/applying/", "ug": 7900,
+      "apps": ["Georgetown application"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-10"]],
+      "test": {"p": "required", "n": "SAT or ACT required; applicants without scores are asked to explain why."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "Alumni interview required when available.",
+      "essays": [
+        ["The significance to you of the school or summer activity you've been most involved in.", 250],
+        ["A personal essay about yourself and what you'd bring to Georgetown.", 650],
+        ["School-specific essay for the college you apply to (College, SFS, McDonough, Nursing, Health, or Walsh).", 650]
+      ],
+      "notes": "Georgetown does not use the Common App. Lengths are about half a page and one page."
+    },
+    {
+      "id": "umich", "name": "University of Michigan, Ann Arbor", "short": "Michigan",
+      "city": "Ann Arbor", "state": "MI", "type": "Public", "cat": "National University", "rank": 25,
+      "site": "https://admissions.umich.edu/apply", "ug": 34000,
+      "apps": ["Common App"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-02-01"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No interviews for most programs.",
+      "essays": [
+        ["A community you belong to and your place within it.", 300],
+        ["Why the specific school or college you're applying to at Michigan, and how it fits your interests.", 550]
+      ],
+      "notes": "Some programs (art, music, nursing and others) have extra requirements."
+    },
+    {
+      "id": "uva", "name": "University of Virginia", "short": "UVA",
+      "city": "Charlottesville", "state": "VA", "type": "Public", "cat": "National University", "rank": 26,
+      "site": "https://admission.virginia.edu/apply", "ug": 17500,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["EA", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended to fall 2027 entry."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No interviews.",
+      "essays": [
+        ["What about your background, perspective or experience will be a source of strength at UVA?", 250],
+        ["A short-answer question tied to the school you're applying to.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "unc", "name": "University of North Carolina at Chapel Hill", "short": "UNC",
+      "city": "Chapel Hill", "state": "NC", "type": "Public", "cat": "National University", "rank": 27,
+      "site": "https://admissions.unc.edu/apply/", "ug": 20700,
+      "apps": ["Common App"],
+      "plans": [["EA", "2026-10-15"], ["RD", "2027-01-15"]],
+      "test": {"p": "check", "n": "UNC System policy requires SAT/ACT, except applicants with an unweighted GPA of 2.8 or higher may apply test-optional."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No interviews.",
+      "essays": [
+        ["Two short answers chosen from a list (for example, a community you've joined or a time you learned something outside class).", 250]
+      ],
+      "notes": "Most seats go to North Carolina residents."
+    },
+    {
+      "id": "usc", "name": "University of Southern California", "short": "USC",
+      "city": "Los Angeles", "state": "CA", "type": "Private", "cat": "National University", "rank": 27,
+      "site": "https://admission.usc.edu/apply/", "ug": 21000,
+      "apps": ["Common App"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-15"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Counselor rec; one teacher rec (some majors want more).",
+      "interview": "No interviews.",
+      "essays": [
+        ["How you plan to pursue your academic interests at USC.", 250],
+        ["One of several prompts about your background or a time your perspective was challenged.", 250],
+        ["Short answers: quick questions with very short responses (about 100 characters).", 0]
+      ],
+      "notes": "Early action is not offered for every major; portfolio or audition majors (arts, cinema) apply by Dec 1."
+    },
+    {
+      "id": "gatech", "name": "Georgia Institute of Technology", "short": "Georgia Tech",
+      "city": "Atlanta", "state": "GA", "type": "Public", "cat": "National University", "rank": 29,
+      "site": "https://admission.gatech.edu/apply/", "ug": 19500,
+      "apps": ["Common App"],
+      "plans": [["EA (GA)", "2026-10-15"], ["EA", "2026-11-01"], ["RD", "2027-01-04"]],
+      "test": {"p": "required", "n": "SAT or ACT required under University System of Georgia policy."},
+      "recs": "Counselor rec; teacher rec optional.",
+      "interview": "No interviews.",
+      "essays": [
+        ["Why you want to study your chosen major at Georgia Tech.", 300]
+      ],
+      "notes": "Early action for Georgia residents closes Oct 15; out-of-state early action closes Nov 1."
+    },
+    {
+      "id": "ucsd", "name": "University of California, San Diego", "short": "UC San Diego",
+      "city": "La Jolla", "state": "CA", "type": "Public", "cat": "National University", "rank": 29,
+      "site": "https://admissions.ucsd.edu/apply/", "ug": 33000,
+      "apps": ["UC Application"],
+      "plans": [["UC", "2026-11-30"]],
+      "test": {"p": "blind", "n": "Test-free: SAT/ACT scores are not considered for admission or scholarships at any UC campus."},
+      "recs": "No recs required.",
+      "interview": "No interviews.",
+      "essays": [
+        ["UC Personal Insight Questions: answer 4 of 8 (leadership, creativity, talent, educational opportunity or barrier, challenge, academic subject, community, what sets you apart).", 350]
+      ],
+      "notes": "You also rank UCSD's undergraduate colleges, which set general-education requirements."
+    },
+    {
+      "id": "bc", "name": "Boston College", "short": "Boston College",
+      "city": "Chestnut Hill", "state": "MA", "type": "Private", "cat": "National University", "rank": 31,
+      "site": "https://www.bc.edu/bc-web/admission/apply.html", "ug": 9600,
+      "apps": ["Common App"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["One of several prompts drawing on BC's Jesuit tradition (for example, a conversation that shaped you or a question you're still working out).", 400]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "nyu", "name": "New York University", "short": "NYU",
+      "city": "New York", "state": "NY", "type": "Private", "cat": "National University", "rank": 31,
+      "site": "https://www.nyu.edu/admissions/undergraduate-admissions/how-to-apply.html", "ug": 29000,
+      "apps": ["Common App"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through the 2026–27 cycle."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["Why NYU: what you hope to gain from NYU and what you'd bring to its community.", 250]
+      ],
+      "notes": "Tisch and Steinhardt arts programs require portfolios or auditions."
+    },
+    {
+      "id": "tufts", "name": "Tufts University", "short": "Tufts",
+      "city": "Medford", "state": "MA", "type": "Private", "cat": "National University", "rank": 31,
+      "site": "https://admissions.tufts.edu/apply/", "ug": 6900,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["Why Tufts: what you'd like to explore here.", 150],
+        ["One of several prompts: an intellectual interest, your community, or what you'd contribute.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bu", "name": "Boston University", "short": "Boston University",
+      "city": "Boston", "state": "MA", "type": "Private", "cat": "National University", "rank": 34,
+      "site": "https://www.bu.edu/admissions/apply/", "ug": 18500,
+      "apps": ["Common App"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-06"], ["RD", "2027-01-06"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through the 2027–28 cycle."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["What about being a student at Boston University most excites you?", 250]
+      ],
+      "notes": "Accelerated medical and arts programs have earlier deadlines."
+    },
+    {
+      "id": "ucdavis", "name": "University of California, Davis", "short": "UC Davis",
+      "city": "Davis", "state": "CA", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://www.ucdavis.edu/admissions/freshman", "ug": 32000,
+      "apps": ["UC Application"],
+      "plans": [["UC", "2026-11-30"]],
+      "test": {"p": "blind", "n": "Test-free: SAT/ACT scores are not considered for admission or scholarships at any UC campus."},
+      "recs": "No recs required.",
+      "interview": "No interviews.",
+      "essays": [
+        ["UC Personal Insight Questions: answer 4 of 8 (leadership, creativity, talent, educational opportunity or barrier, challenge, academic subject, community, what sets you apart).", 350]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "uci", "name": "University of California, Irvine", "short": "UC Irvine",
+      "city": "Irvine", "state": "CA", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://admissions.uci.edu/apply/", "ug": 30000,
+      "apps": ["UC Application"],
+      "plans": [["UC", "2026-11-30"]],
+      "test": {"p": "blind", "n": "Test-free: SAT/ACT scores are not considered for admission or scholarships at any UC campus."},
+      "recs": "No recs required.",
+      "interview": "No interviews.",
+      "essays": [
+        ["UC Personal Insight Questions: answer 4 of 8 (leadership, creativity, talent, educational opportunity or barrier, challenge, academic subject, community, what sets you apart).", 350]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "uf", "name": "University of Florida", "short": "Florida",
+      "city": "Gainesville", "state": "FL", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://admissions.ufl.edu/apply/", "ug": 35000,
+      "apps": ["Common App"],
+      "plans": [["Regular", "2026-11-01"]],
+      "test": {"p": "required", "n": "SAT, ACT or CLT required."},
+      "recs": "Recommendations are not considered.",
+      "interview": "No interviews.",
+      "essays": [
+        ["No supplement beyond the personal essay.", 0]
+      ],
+      "notes": "Single first-year deadline; UF also requires a self-reported academic record (SSAR)."
+    },
+    {
+      "id": "uiuc", "name": "University of Illinois Urbana-Champaign", "short": "Illinois",
+      "city": "Champaign", "state": "IL", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://www.admissions.illinois.edu/apply", "ug": 37000,
+      "apps": ["Common App", "Illinois application"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Recommendations optional for most majors.",
+      "interview": "No interviews.",
+      "essays": [
+        ["Why your first-choice major, and what you've done to explore it.", 300],
+        ["If you list a second-choice major, why it interests you.", 150]
+      ],
+      "notes": "Admission is by major; computer science and engineering are much more selective than the campus overall."
+    },
+    {
+      "id": "utaustin", "name": "University of Texas at Austin", "short": "UT Austin",
+      "city": "Austin", "state": "TX", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://admissions.utexas.edu/apply/", "ug": 42000,
+      "apps": ["Common App", "ApplyTexas"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2026-12-01"]],
+      "test": {"p": "required", "n": "SAT or ACT required."},
+      "recs": "Recommendations optional (up to two).",
+      "interview": "No interviews.",
+      "essays": [
+        ["Why you chose your first-choice major and how it fits your goals.", 300],
+        ["A leadership role or experience and its impact.", 300],
+        ["How your background or experiences will contribute to UT.", 300]
+      ],
+      "notes": "Texas students in the top 6% of their class qualify for automatic admission."
+    },
+    {
+      "id": "uwmadison", "name": "University of Wisconsin–Madison", "short": "UW–Madison",
+      "city": "Madison", "state": "WI", "type": "Public", "cat": "National University", "rank": 34,
+      "site": "https://admissions.wisc.edu/apply/", "ug": 39000,
+      "apps": ["Common App", "UW System application"],
+      "plans": [["EA", "2026-11-01"], ["RD", "2027-01-15"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended to the spring 2028 term."},
+      "recs": "One teacher rec required; counselor rec optional.",
+      "interview": "No interviews.",
+      "essays": [
+        ["Why you decided to apply to UW–Madison, and why you're interested in your chosen major(s).", 650]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "wake", "name": "Wake Forest University", "short": "Wake Forest",
+      "city": "Winston-Salem", "state": "NC", "type": "Private", "cat": "National University", "rank": 34,
+      "site": "https://admissions.wfu.edu/apply/", "ug": 5500,
+      "apps": ["Common App"],
+      "plans": [["ED", "2026-11-15"], ["EA", "2026-11-15"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Test-optional; Wake Forest was an early adopter."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "Interviews encouraged (virtual or on campus).",
+      "essays": [
+        ["Why Wake Forest.", 150],
+        ["Short-answer questions, some optional: books that influenced you, a 'Top Ten' list, and a prompt about civil dialogue.", 150]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "williams", "name": "Williams College", "short": "Williams",
+      "city": "Williamstown", "state": "MA", "type": "Private", "cat": "Liberal Arts College", "rank": 1,
+      "site": "https://admission.williams.edu/apply/", "ug": 2100,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-15"], ["RD", "2027-01-08"]],
+      "test": {"p": "optional", "n": "Test-optional; sources disagree on details, so check Williams' site."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["One of two prompts, such as the Williams tutorial (debating ideas with a classmate) or a community that shaped you.", 300]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "amherst", "name": "Amherst College", "short": "Amherst",
+      "city": "Amherst", "state": "MA", "type": "Private", "cat": "Liberal Arts College", "rank": 2,
+      "site": "https://www.amherst.edu/admission/apply", "ug": 1900,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Test-optional for domestic and international applicants."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["One of several prompts about an intellectual interest, a community you belong to, or a quotation that resonates.", 350]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "bowdoin", "name": "Bowdoin College", "short": "Bowdoin",
+      "city": "Brunswick", "state": "ME", "type": "Private", "cat": "Liberal Arts College", "rank": 3,
+      "site": "https://www.bowdoin.edu/admissions/apply/", "ug": 1900,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-15"], ["ED II", "2027-01-05"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Interviews available; optional.",
+      "essays": [
+        ["Bowdoin's 'Offer of the College': which line resonates with you and why.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "cmc", "name": "Claremont McKenna College", "short": "Claremont McKenna",
+      "city": "Claremont", "state": "CA", "type": "Private", "cat": "Liberal Arts College", "rank": 3,
+      "site": "https://www.cmc.edu/admission/apply", "ug": 1400,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-05"], ["RD", "2027-01-05"]],
+      "test": {"p": "check", "n": "Compass Prep says CMC intends to return to required testing for students entering in fall 2028, so fall 2027 applicants are likely test-optional. Confirm with CMC."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Interviews encouraged.",
+      "essays": [
+        ["Why CMC and how its mission (leadership, public affairs) connects to your goals.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "pomona", "name": "Pomona College", "short": "Pomona",
+      "city": "Claremont", "state": "CA", "type": "Private", "cat": "Liberal Arts College", "rank": 3,
+      "site": "https://www.pomona.edu/admissions/apply", "ug": 1800,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-15"], ["ED II", "2027-01-08"], ["RD", "2027-01-08"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Optional interviews.",
+      "essays": [
+        ["Why Pomona: what draws you to the college and the Claremont Colleges consortium.", 250],
+        ["One of several prompts about your perspective, community or curiosity.", 250]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "swarthmore", "name": "Swarthmore College", "short": "Swarthmore",
+      "city": "Swarthmore", "state": "PA", "type": "Private", "cat": "Liberal Arts College", "rank": 3,
+      "site": "https://www.swarthmore.edu/admissions-aid/apply", "ug": 1700,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-15"], ["ED II", "2027-01-04"], ["RD", "2027-01-04"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Optional interviews.",
+      "essays": [
+        ["Why Swarthmore: what draws you to the college.", 250],
+        ["A community you belong to, or a moment that shaped your perspective.", 250]
+      ],
+      "notes": "Engineering applicants study within the liberal arts curriculum."
+    },
+    {
+      "id": "hmc", "name": "Harvey Mudd College", "short": "Harvey Mudd",
+      "city": "Claremont", "state": "CA", "type": "Private", "cat": "Liberal Arts College", "rank": 8,
+      "site": "https://www.hmc.edu/admission/apply/", "ug": 920,
+      "apps": ["Common App"],
+      "plans": [["ED", "2026-11-15"], ["ED II", "2027-01-05"], ["RD", "2027-01-05"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through 2027."},
+      "recs": "Two teacher recs (one math or science) and a counselor rec.",
+      "interview": "Optional interviews.",
+      "essays": [
+        ["Why Harvey Mudd: how its blend of STEM and humanities fits you.", 200],
+        ["How you think about the impact of science and technology on society.", 200]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "wellesley", "name": "Wellesley College", "short": "Wellesley",
+      "city": "Wellesley", "state": "MA", "type": "Private", "cat": "Liberal Arts College", "rank": 10,
+      "site": "https://www.wellesley.edu/admission-aid/apply", "ug": 2300,
+      "apps": ["Common App", "Coalition", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-08"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended to fall 2027 entry."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "Optional interviews.",
+      "essays": [
+        ["Why Wellesley: what you hope to explore and contribute, drawing on what you've learned about the college.", 350]
+      ],
+      "notes": "Women's college; cross-registration with MIT, Babson and Olin."
+    },
+    {
+      "id": "vassar", "name": "Vassar College", "short": "Vassar",
+      "city": "Poughkeepsie", "state": "NY", "type": "Private", "cat": "Liberal Arts College", "rank": 12,
+      "site": "https://admissions.vassar.edu/apply/", "ug": 2500,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-15"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Test-optional."},
+      "recs": "Two teacher recs and a counselor rec.",
+      "interview": "No evaluative interviews.",
+      "essays": [
+        ["Why Vassar: what draws you to the college.", 300],
+        ["Optional: one of several short prompts about your background or community.", 300]
+      ],
+      "notes": ""
+    },
+    {
+      "id": "wlu", "name": "Washington and Lee University", "short": "Washington and Lee",
+      "city": "Lexington", "state": "VA", "type": "Private", "cat": "Liberal Arts College", "rank": 12,
+      "site": "https://www.wlu.edu/admissions/", "ug": 1900,
+      "apps": ["Common App", "QuestBridge"],
+      "plans": [["ED", "2026-11-01"], ["ED II", "2027-01-01"], ["RD", "2027-01-01"]],
+      "test": {"p": "optional", "n": "Temporary test-optional policy extended through the 2026–27 cycle."},
+      "recs": "One teacher rec and a counselor rec.",
+      "interview": "Optional interviews.",
+      "essays": [
+        ["Short supplement about your interest in W&L (optional in recent cycles).", 250]
+      ],
+      "notes": "Johnson Scholarship (full tuition, room and board) has its own earlier deadline and essays."
+    }
+  ],
+  "stats": {
+    "mit": [28232, 4.55, [1520, 1570], [34, 36]],
+    "princeton": [42303, 4.42, [1490, 1560], [34, 35]],
+    "harvard": [54008, 3.65, [1510, 1580], [34, 36]],
+    "yale": [50264, 4.75, [1470, 1560], [33, 35]],
+    "caltech": [13847, 2.57, null, null],
+    "stanford": [60646, 3.80, [1520, 1570], [34, 36]],
+    "penn": [65236, 5.40, [1510, 1570], [34, 36]],
+    "duke": [55541, 5.24, [1510, 1570], [34, 35]],
+    "jhu": [49112, 5.14, [1530, 1570], [35, 35]],
+    "northwestern": [49474, 7.69, [1510, 1560], [34, 35]],
+    "uchicago": [43612, 4.48, [1510, 1560], [34, 35]],
+    "columbia": [59616, 4.94, [1510, 1560], [34, 36]],
+    "dartmouth": [28230, 6.02, [1440, 1550], [32, 35]],
+    "cmu": [34867, 11.07, [1500, 1560], [34, 36]],
+    "cornell": [72523, 8.38, [1490, 1550], [33, 35]],
+    "brown": [42774, 6.34, [1470, 1550], [33, 35]],
+    "rice": [36791, 8.01, [1500, 1570], [34, 36]],
+    "vanderbilt": [48196, 5.38, [1510, 1560], [34, 35]],
+    "washu": [32754, 12.06, [1500, 1570], [33, 35]],
+    "berkeley": [126864, 11.45, null, null],
+    "ucla": [145086, 9.41, null, null],
+    "notredame": [35401, 9.38, [1460, 1540], [33, 35]],
+    "emory": [37561, 10.30, [1480, 1540], [33, 35]],
+    "georgetown": [26822, 13.49, [1410, 1530], [32, 35]],
+    "umich": [98310, 15.64, [1360, 1530], [31, 34]],
+    "uva": [64457, 15.65, [1410, 1510], [32, 34]],
+    "unc": [66535, 15.34, [1400, 1530], [28, 34]],
+    "usc": [82027, 9.81, [1450, 1550], [32, 35]],
+    "gatech": [66881, 13.34, [1370, 1530], [31, 35]],
+    "ucsd": [136750, 28.56, null, null],
+    "bc": [39686, 13.85, [1440, 1520], [33, 35]],
+    "nyu": [114125, 9.06, [1480, 1550], [34, 35]],
+    "tufts": [33415, 10.81, [1460, 1520], [33, 35]],
+    "bu": [76776, 12.83, [1420, 1510], [33, 34]],
+    "ucdavis": [102988, 44.35, null, null],
+    "uci": [124231, 28.95, null, null],
+    "uf": [73557, 24.20, [1330, 1470], [29, 33]],
+    "uiuc": [83045, 36.59, [1390, 1520], [31, 34]],
+    "utaustin": [90690, 22.22, null, null],
+    "uwmadison": [65933, 45.17, [1370, 1490], [29, 33]],
+    "wake": [19600, 20.76, [1420, 1490], [32, 34]],
+    "williams": [15520, 8.61, [1490, 1550], [33, 35]],
+    "amherst": [15819, 7.72, [1470, 1540], [33, 35]],
+    "bowdoin": [14045, 6.81, [1470, 1540], [33, 35]],
+    "cmc": [6939, 9.44, [1480, 1540], [33, 35]],
+    "pomona": [12470, 7.14, [1490, 1550], [32, 34]],
+    "swarthmore": [12995, 7.52, [1480, 1550], [33, 35]],
+    "hmc": [5217, 12.33, [1500, 1560], [35, 36]],
+    "wellesley": [8506, 14.79, [1460, 1540], [33, 35]],
+    "vassar": [11118, 20.93, [1460, 1520], [33, 34]],
+    "wlu": [8963, 13.54, [1430, 1530], [33, 34]]
+  }
+}

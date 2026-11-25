@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<!-- index.html: the page skeleton (header, search box, tabs).
+     Looks are in style.css, behavior in app.js, school facts in schools.json. -->
+<title>Shortlist College Planner</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700&family=Public+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap top-row">
+    <div class="brand">
+      <h1>Short<span>list</span></h1>
+      <span class="cycle" id="cycle">2026–27 cycle · fall 2027 entry</span>
+    </div>
+    <div class="search" role="combobox" aria-expanded="false" aria-owns="results" aria-haspopup="listbox" id="search-box">
+      <svg viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="5.75" stroke="currentColor" stroke-width="1.8"/><path d="M13 13l4 4" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></svg>
+      <input id="search" type="search" placeholder="Add a school: try “Rice” or “Claremont”" autocomplete="off" aria-autocomplete="list" aria-controls="results" aria-label="Search schools to add">
+      <ul class="results" id="results" role="listbox" hidden></ul>
+    </div>
+  </div>
+  <div class="wrap">
+    <nav class="tabs" aria-label="Views" id="tabs"></nav>
+  </div>
+</header>
+
+<main class="wrap" id="app"><div class="loading">Loading school data…</div></main>
+
+<footer class="wrap foot" id="foot"></footer>
+<div class="toast" id="toast" role="status" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
